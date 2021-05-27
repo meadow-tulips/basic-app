@@ -1,0 +1,1 @@
+Do `yarn && yarn start`.
